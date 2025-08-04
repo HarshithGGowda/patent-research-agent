@@ -37,15 +37,8 @@ This system combines CrewAI agents, semantic search, and patent data analysis to
 ---
 
 #  DATA FLOW  
-Patent Data
-↓
-OpenSearch Index
-↓
-Vector Embeddings
-↓
-Multi-Agent Analysis
-↓
-Comprehensive Reports
+<img width="4356" height="3636" alt="image" src="https://github.com/user-attachments/assets/6405f6ce-050c-4915-a569-3727282c21b5" />
+
 
 
 # OUTPUT  
