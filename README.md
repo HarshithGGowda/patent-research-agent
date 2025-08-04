@@ -1,5 +1,5 @@
 #  PATENT RESEARCH AGENT 
-## AI-powered patent analysis system using multi-agent frameworks to analyze lithium battery technology trends and predict future innovations.
+## AI-powered patent analysis system using multi-agent frameworks to analyze technology trends and predict future innovations.
 
 ---
 
