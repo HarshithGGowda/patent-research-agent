@@ -14,8 +14,7 @@ This system combines CrewAI agents, semantic search, and patent data analysis to
 - **Ollama** - Local LLM inference (`deepseek-r1:latest`)  
 - **OpenSearch** - Vector database for patent storage  
 - **NOMIC-embedding-model** - Semantic embeddings  
-- **Python** - Core application logic  
-
+ 
 ---
 
 # ARCHITECTURE  
