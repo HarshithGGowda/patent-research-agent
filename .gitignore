@@ -12,6 +12,7 @@ env/
 
 # Results and output files
 results/
+files/
 *.txt
 *.log
 
